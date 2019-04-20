@@ -9,3 +9,5 @@ I begin by loading the data, displaying the images and preprocessing them. I the
 ![](https://i.imgur.com/6Crxeo5.png)
 
 Finally, I use the model to plot confusion matrices for both sets of testing data, which show a wealth of information about the workings of the deep learning model.
+
+The data is taken from kaggle.com. The data files are rather large to upload here, but you can find them [here](https://www.kaggle.com/grassknoted/asl-alphabet) and [here](https://www.kaggle.com/danrasband/asl-alphabet-test).
