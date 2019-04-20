@@ -2,7 +2,7 @@
 
 In this notebook I use Convolutional Neural Networks (CNN) to analyze and recognize Americal Sign Language letter symbols.
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/7d/American_Sign_Language_ASL.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Asl_alphabet_gallaudet.png/480px-Asl_alphabet_gallaudet.png)
 
 I begin by loading the data, displaying the images and preprocessing them. I then form a deep learning model with over 1 million parameters and test it on two different sets of data.
 
