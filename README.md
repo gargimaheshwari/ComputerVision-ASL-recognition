@@ -8,4 +8,4 @@ I begin by loading the data, displaying the images and preprocessing them. I the
 
 ![](https://i.imgur.com/6Crxeo5.png)
 
-Finally, I use the model to plot confusion matrices for both sets of testing data.
+Finally, I use the model to plot confusion matrices for both sets of testing data, which show a wealth of information about the workings of the deep learning model.
